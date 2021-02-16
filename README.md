@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arikarim)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arikarim&theme=dracula)](https://github.com/arikarim)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arikarim)](https://github.com/arikarim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arikarim&theme=dracula)](https://github.com/arikarim-readme-stats)
