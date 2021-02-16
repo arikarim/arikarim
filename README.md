@@ -4,10 +4,8 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-karim-523bb81b3)](https://www.linkedin.com/in/ari-karim-523bb81b3)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ari71549490)](https://twitter.com/Ari71549490)
-[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Ari%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-karim-523bb81b3)](https://www.linkedin.com/in/ari-karim-523bb81b3)
+[![Twitter Badge](https://img.shields.io/badge/-@Mr_Ari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ari71549490)](https://twitter.com/Ari71549490)
 
 
 
