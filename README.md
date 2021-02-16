@@ -1,6 +1,6 @@
-### Hi there 👋 Ari is here 
+<h2> Hi, I'm Ari Karim! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
-"Full Stack Web Developer"
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
 
