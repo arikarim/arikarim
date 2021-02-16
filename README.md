@@ -10,7 +10,7 @@
 
 
 
-# Litle More About Me
+# Little More About Me
 ```javascript
 const ariKarim = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
