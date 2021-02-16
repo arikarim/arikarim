@@ -4,7 +4,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ari%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-karim-523bb81b3)](https://www.linkedin.com/in/ari-karim-523bb81b3)
+[![Linkedin Badge](https://img.shields.io/badge/-Ari%20Karim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-karim-523bb81b3)](https://www.linkedin.com/in/ari-karim-523bb81b3)
 [![Twitter Badge](https://img.shields.io/badge/-@Mr_Ari-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ari71549490)](https://twitter.com/Ari71549490)
 
 
