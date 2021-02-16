@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arikarim&theme=radical)](https://github.com/arikarim)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arikarim)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arikarim&theme=dracula)](https://github.com/arikarim)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arikarim)](https://github.com/arikarim)
