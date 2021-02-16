@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋 Ari is here 
+
+"Full Stack Web Developer"
+
+
+# Alitle More About Me
+const ariKarim = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["he", "his"],
+  code: [HTML/CSS, Semantic UI, Bootstrap, 
+  Tailwind CSS],
+  askMeAbout: [Kurdistan, The 1998, Hospital, Animes, Movies],
+  challenge: "I am a fresh developer",
+  funFacts: ['I have just started remote work experience with devs 
+  from all over the world', 
+  'My dream is having a Cat']
+}
 
 <!--
 **arikarim/arikarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
