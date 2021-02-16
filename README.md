@@ -4,6 +4,7 @@
 
 
 # Alitle More About Me
+```javascript
 const ariKarim = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
@@ -15,6 +16,7 @@ const ariKarim = {
   from all over the world', 
   'My dream is having a Cat']
 }
+```
 
 <!--
 **arikarim/arikarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
