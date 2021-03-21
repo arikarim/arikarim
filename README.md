@@ -15,7 +15,7 @@
 const ariKarim = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
-  code: [HTML/CSS, Semantic UI, Bootstrap, 
+  code: [Ruby|Ruby on Rails,HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [Kurdistan, The 1998, Hospital, Animes, Movies],
   challenge: "I am a fresh developer",
