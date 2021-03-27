@@ -15,13 +15,13 @@
 const ariKarim = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
-  code: [Ruby|Ruby on Rails,HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS],
-  askMeAbout: [Kurdistan, The 1998, Hospital, Animes, Movies],
-  challenge: "I am a fresh developer",
-  funFacts: ['I have just started remote work experience with devs 
-  from all over the world', 
-  'My dream is having a Cat']
+  code: [Ruby on Rails, Ruby, HTML/CSS, Semantic UI, Bootstrap, 
+  CSS5],
+  askMeAbout: [Kurdistan, The 1998, Coding, Animes, Movies],
+  challenge: "I am a fast learner developer",
+  funFacts: ['I have started remote work experience with devs 
+  from all over the world and I love it :)', 
+  'My dream is having a Cat :(']
 }
 ```
 
