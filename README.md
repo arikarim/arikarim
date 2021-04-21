@@ -13,15 +13,15 @@
 # Little More About Me
 ```javascript
 const ariKarim = {
-  lookingFor: "Back-end developer" || "Full-stack web developer",
+  lookingFor: "Back-End developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
-  code: [Ruby on Rails, Javascript Ruby, HTML/CSS, Semantic UI, Bootstrap, 
+  code: [Ruby on Rails, Javascript, Ruby, HTML/CSS, Semantic UI, Bootstrap, 
   CSS5],
   askMeAbout: [Kurdistan, The 1998, Coding, Animes, Movies],
-  challenge: "I am a fast learner developer",
+  challenge: "I am a fast learner Developer",
   funFacts: ['I have started remote work experience with devs 
   from all over the world and I love it :)', 
-  'My dream is having a Cat :(']
+  'My dream is having a cat :(']
 }
 ```
 
