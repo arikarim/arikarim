@@ -15,7 +15,7 @@
 const ariKarim = {
   lookingFor: "Back-End developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
-  code: [Ruby on Rails, Javascript, React, Ruby, HTML/CSS, Semantic UI, Bootstrap, 
+  code: [Ruby on Rails, Javascript, React and Redux, Ruby, HTML/CSS, Semantic UI, Bootstrap, 
   CSS5],
   askMeAbout: [Kurdistan, The 1998, Coding, Animes, Movies],
   challenge: "I am a fast learner Developer",
