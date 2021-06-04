@@ -13,7 +13,7 @@
 # Little More About Me
 ```javascript
 const ariKarim = {
-  lookingFor: "Back-End developer" || "Full-stack web developer",
+  lookingFor: "Front-End developer" || "Back-End developer",
   pronouns: ["he", "his"],
   code: [Ruby on Rails, Javascript, React and Redux, Ruby, HTML/CSS, Semantic UI, Bootstrap, 
   CSS5],
