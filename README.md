@@ -18,7 +18,7 @@ const ariKarim = {
   code: [Ruby on Rails, Javascript, React and Redux, Ruby, HTML/CSS, Semantic UI, Bootstrap, 
   CSS5],
   askMeAbout: [Kurdistan, The 1998, Coding, Animes, Movies],
-  challenge: "I am a fast learner Developer",
+  challenge: "I am a fast learner.",
   funFacts: ['I have started remote work experience with devs 
   from all over the world and I love it :)', 
   'My dream is having a cat :(']
