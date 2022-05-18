@@ -41,19 +41,12 @@ Here are some ideas to get you started:
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <div align="center">
-  <a href="https://github.com/arikarim#user-activity-overview">
-    <img src="https://github.com/arikarim/arikarim/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
-  </a>
+  <p align="center">
+  <img src="https://github.com/arikarim/arikarim/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
   <br>
 </div>
   
-<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arikarim&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
-  </a>
-</div>
-
 
 |My github statistics|Streaks|My languages|
 |-|-|-|
