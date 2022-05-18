@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 |My github statistics|Streaks|My languages|
 |-|-|-|
 |[![Ari's github stats](https://github-readme-stats.vercel.app/api?username=arikarim&show_icons=true&theme=dark&hide_title=true)](https://github.com/arikarim)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=arikarim&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arikarim&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/arikarim)
-
+-->
   
 
 ![Profile views](https://gpvc.arturio.dev/arikarim)
