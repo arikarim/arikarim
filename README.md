@@ -47,13 +47,6 @@ Here are some ideas to get you started:
   <br>
 </div>
   
-<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arikarim&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
-  </a>
-</div>
-
 
 |My github statistics|Streaks|My languages|
 |-|-|-|
