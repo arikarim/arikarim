@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
-![](https://github.com/arikarim/arikarim/raw/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)(https://github.com/arikarim/arikarim/blob/output/github-contribution-grid-snake.gif)
+(github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://github.com/arikarim/arikarim/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
 <div align="center">
   <p align="center">
   <img src="https://github.com/arikarim/arikarim/raw/output/github-contribution-grid-snake.svg" alt="snake">
