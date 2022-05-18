@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <div align="center">
   <a href="https://github.com/arikarim#user-activity-overview">
-    <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
+    <img src="https://github.com/arikarim/arikarim/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
   </a>
   <br>
 </div>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arikarim&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
   </a>
 </div>
 
