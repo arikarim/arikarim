@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <div align="center">
-  <a href="https://github.com/lkotlarenko#user-activity-overview">
+  <a href="https://github.com/arikarim#user-activity-overview">
     <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
   </a>
   <br>
