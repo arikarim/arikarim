@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <div align="center">
-  <a href="https://github.com/arikarim#user-activity-overview">
-    <img src="https://github.com/arikarim/arikarim/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
-  </a>
+  <p align="center">
+  <img src="https://github.com/arikarim/arikarim/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
   <br>
 </div>
   
