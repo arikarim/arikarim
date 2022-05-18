@@ -39,6 +39,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
+<!-- Snake contributions graph https://github.com/Platane/snk -->
+<div align="center">
+  <a href="https://github.com/lkotlarenko#user-activity-overview">
+    <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
+  </a>
+  <br>
+</div>
+  
+<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
+  </a>
+</div>
+
 -->
 |My github statistics|Streaks|My languages|
 |-|-|-|
