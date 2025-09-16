@@ -11,8 +11,8 @@
 
 
 # Little More About Me
-```javascript
-const ariKarim = {
+```ruby
+ariKarim = {
   special: "Back-End development",
   pronouns: ["he", "his"],
   code: [Ruby on Rails, Postgresql, MongoDB, Rust,RabbitMQ, Microservices, 
