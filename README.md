@@ -15,12 +15,10 @@
 ariKarim = {
   special: "Back-End development",
   pronouns: ["he", "his"],
-  code: [Ruby on Rails, Postgresql, MongoDB, Rust,RabbitMQ, Microservices, 
-  CSS5],
+  code: [Ruby on Rails, Postgresql, MongoDB, Rust,RabbitMQ, Microservices],
   askMeAbout: [Kurdistan, The 1998, Coding, Animes, Movies],
-  challenge: "I am a fast learner.",
-  funFacts: ['I have started remote work experience with devs 
-  from all over the world and I love it :)', 
+  challenge: "Learn Rust.",
+  funFacts: ['I am a senior back-end software engineer and I love it :)', 
   'My dream is having a cat :(']
 }
 ```
