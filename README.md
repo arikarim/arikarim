@@ -15,7 +15,7 @@
 const ariKarim = {
   special: "Back-End development",
   pronouns: ["he", "his"],
-  code: [Ruby on Rails, Javascript, React and Redux, Ruby, HTML/CSS, Semantic UI, Bootstrap, 
+  code: [Ruby on Rails, Postgresql, MongoDB, Rust,RabbitMQ, Microservices, 
   CSS5],
   askMeAbout: [Kurdistan, The 1998, Coding, Animes, Movies],
   challenge: "I am a fast learner.",
